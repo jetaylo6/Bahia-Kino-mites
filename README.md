@@ -1,2 +1,2 @@
 # Bahia-Kino-mites
-Supplementary material for the Bahia de Kino intertidal soil mite study
+Supplementary tables (S1-S3) for intertidal soil mite study in Bahía de Kino, Sonora, Mexico
